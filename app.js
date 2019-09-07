@@ -4,7 +4,7 @@ var router = require('./router')//加载路由模块
 
 var bodyParser = require('body-parser')
 
-// var fs = require('fs')
+// var fs = require('fs') 
 
 //创建app服务器
 var app = express()
